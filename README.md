@@ -29,8 +29,6 @@ npm i
 
 Run NPM Start and follow the instructions
 
-![Teamwork Dreamwork CLI](./assets/CLI.png)
-![Teamwork Dreamwork HTML](./assets/HTML.png)
 ![Teamwork Dreamwork Gif](./assets/TeamworkDreamwork.gif)
 
 ## License
