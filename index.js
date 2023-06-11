@@ -1,10 +1,10 @@
 const inquire = require('inquirer');
 const fs = require('fs');
-const generateTeam = require('./src/generateTeam');
+const generateTeam = require('./src/template');
 
-const Engineer = require('./lib/Engineer');
-const Intern = require('./lib/Intern');
-const Manager = require('./lib/Manager');
+const Engineer = require('./lib/engineer');
+const Intern = require('./lib/intern');
+const Manager = require('./lib/manager');
 
 const newTeamMemberInfo = [];
 
