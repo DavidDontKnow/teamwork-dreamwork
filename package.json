@@ -1,0 +1,26 @@
+{
+  "name": "teamwork-dreamwork",
+  "version": "1.0.0",
+  "description": "a team tracker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidDontKnow/teamwork-dreamwork.git"
+  },
+  "author": "David Gutierrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidDontKnow/teamwork-dreamwork/issues"
+  },
+  "homepage": "https://github.com/DavidDontKnow/teamwork-dreamwork#readme",
+"dependencies": {
+    "inquirer": "8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
